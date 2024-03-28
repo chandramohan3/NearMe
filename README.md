@@ -180,11 +180,21 @@ flipkart.html
 ## OUTPUT
 
 ![WhatsApp Image 2024-03-28 at 20 27 17_7ea02d74](https://github.com/chandramohan3/NearMe/assets/142579775/f69ccd70-0c61-47d0-8215-ebbe5def65bc)
-![alt text](1-3.png)
-![alt text](2-2.png)
-![alt text](3-2.png)
-![alt text](4-2.png)
-![alt text](5-2.png)
+
+![screenshot6](https://github.com/chandramohan3/NearMe/assets/142579775/5a50a786-9c34-401c-bd10-46782aaed141)
+
+![screenshot5](https://github.com/chandramohan3/NearMe/assets/142579775/69a3c006-f744-4a3b-aeea-6b07653deff1)
+
+![screenshot4](https://github.com/chandramohan3/NearMe/assets/142579775/1e743104-6506-47df-abe8-6f9917eec79c)
+
+![screenshot3](https://github.com/chandramohan3/NearMe/assets/142579775/f60ab98f-3523-42b5-b3cd-687f04507215)
+
+![screenshot 2](https://github.com/chandramohan3/NearMe/assets/142579775/df774767-f6e1-46fb-bcb6-ea80759338f7)
+
+
+
+
+
 
 
 
