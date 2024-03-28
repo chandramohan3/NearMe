@@ -178,6 +178,7 @@ flipkart.html
 
 
 ## OUTPUT
+
 (<Screenshot 2024-03-27 095130.png>)
 ![alt text](1-3.png)
 ![alt text](2-2.png)
