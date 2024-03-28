@@ -179,7 +179,7 @@ flipkart.html
 
 ## OUTPUT
 
-(<Screenshot 2024-03-27 095130.png>)
+![WhatsApp Image 2024-03-28 at 20 27 17_7ea02d74](https://github.com/chandramohan3/NearMe/assets/142579775/f69ccd70-0c61-47d0-8215-ebbe5def65bc)
 ![alt text](1-3.png)
 ![alt text](2-2.png)
 ![alt text](3-2.png)
